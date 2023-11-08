@@ -1,10 +1,8 @@
 # Covid-Analysis
 
-# Covid-Analysis
--------------
-### PROJECT DESCRIPTION
- This project is a combiantion of 2 excel  files from a website called ourworldindata.org containing some details of covid-19 data
----------
+###PROJECT DESCRIPTION
+ This project is a combination of 2 excel  files from a website called ourworldindata.org containing some details of covid-19 data
+ 
 ### We Generated Many Insights From this Data
 1.Total cases vs percentage of death cases
 
